@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523636414 source:c:\users\garci\desktop\calculadora2\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"limits.h"
+
+1536112408 source:c:\users\garci\desktop\calculadora2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"limits.h"
+
+1523563842 c:\users\garci\desktop\calculadora2\lib.h
+
