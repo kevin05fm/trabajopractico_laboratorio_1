@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1525461077 source:c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"FuncionesUtn.h"
+
+1524691840 c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\funcionesutn.h
+
+1526053906 source:c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesUtn.h"
+	"personas.h"
+
+1526054682 c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\personas.h
+
+1526055140 source:c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"personas.h"
+	"FuncionesUtn.h"
+
+1525461078 source:d:\facultad\code blocks\tps\tp2personas\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"FuncionesUtn.h"
+
+1524691840 d:\facultad\code blocks\tps\tp2personas\funcionesutn.h
+
+1526053908 source:d:\facultad\code blocks\tps\tp2personas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesUtn.h"
+	"personas.h"
+
+1526054684 d:\facultad\code blocks\tps\tp2personas\personas.h
+
+1526055500 source:d:\facultad\code blocks\tps\tp2personas\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"personas.h"
+	"FuncionesUtn.h"
+
+1525461078 source:d:\facultad\2do cuatri\tp2personas\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"FuncionesUtn.h"
+
+1524691840 d:\facultad\2do cuatri\tp2personas\funcionesutn.h
+
+1538707888 source:d:\facultad\2do cuatri\tp2personas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesUtn.h"
+	"employees.h"
+
+1538262658 d:\facultad\2do cuatri\tp2personas\employees.h
+
+1538708246 source:d:\facultad\2do cuatri\tp2personas\employees.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"employees.h"
+	"FuncionesUtn.h"
+
